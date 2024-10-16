@@ -1,4 +1,4 @@
-# BetterAfrica
+# Better Africa Foundation 
 **Who We Are:** 
 An organisation with a mission and vision to provide solutions and create reforms in industries such as Education, Entrepreneurship, Health, Tech and Energy in Africa.
 
